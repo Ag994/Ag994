@@ -9,8 +9,6 @@ i am data scientist with passion for science and data<br>shoot me on email or ad
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ag994&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ag994&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ag994&icon=6&color=12)](https://visitcount.itsvg.in)
